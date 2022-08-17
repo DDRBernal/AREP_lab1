@@ -14,7 +14,10 @@
       <artifactId>spark-core</artifactId>
       <version>2.7.2</version>
     </dependency>
-
   </dependencies>
-
+  <properties>
+    <project.build.sourceEncoding>UTF8</project.build.sourceEncoding>
+    <maven.compiler.source>1.8</maven.compiler.source>
+    <maven.compiler.target>1.8</maven.compiler.target>
+  </properties>
 </project>

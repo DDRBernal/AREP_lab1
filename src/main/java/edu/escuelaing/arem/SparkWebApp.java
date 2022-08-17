@@ -1,4 +1,4 @@
-package co.edu.escuelaing.arem.designprimer;
+package edu.escuelaing.arem;
 import static spark.Spark.*;
 
 public class SparkWebApp {
